@@ -5,7 +5,7 @@ Copyright (c) 2006-2012 sqlmap developers (http://www.sqlmap.org/)
 See the file 'doc/COPYING' for copying permission
 """
 
-import sys
+import system
 
 PYVERSION = sys.version.split()[0]
 
